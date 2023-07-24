@@ -15,7 +15,7 @@
 
 ![demo_0](demo/demo_0.gif)
 
-![demo_1](demo/demo_1.gif)
+<!-- ![demo_1](demo/demo_1.gif) -->
 
 ![demo_2](demo/demo_2.gif)
 
