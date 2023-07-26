@@ -1,0 +1,16 @@
+data
+ckpts
+common/utils/smplpytorch
+common/utils/manopth
+common/utils/human_model_files
+*__pycache__*
+*.pyc
+oc_best_ckpt
+*.zip
+*.tar
+output
+*.json
+start.sh
+backup_code
+demo/*.py
+*.pth

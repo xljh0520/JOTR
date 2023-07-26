@@ -1,0 +1,21 @@
+trainset_3d: ['Human36M']
+trainset_2d: ['CrowdPose']
+
+
+
+lr_dec_epoch: [99]
+end_epoch: 20
+lr: 0.00005
+lr_backbone: 0.00005
+lr_dec_factor: 2
+
+num_thread: 24
+train_batch_size: 16
+test_batch_size: 32
+enc_layers: 2
+dec_layers: 4
+weight_decay: 0.01
+# max_norm: 0.1
+use_cls_token: False
+upsample_net: True
+update_bbox: True
