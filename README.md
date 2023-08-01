@@ -13,6 +13,8 @@
   </div>
 </p>
 
+[[Preprint](https://arxiv.org/abs/2307.16377)]
+
 ![demo_0](demo/demo_0.gif)
 
 ![demo_1](demo/demo_1.gif)
