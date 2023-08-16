@@ -30,8 +30,10 @@
 conda create python=3.7 --name jotr
 conda activate jotr
 pip install torch==1.8.0 torchvision==0.9.0
-pip install -r requirements.txt
+sh requirements.sh
 ```
+<!-- pip install -r requirements.txt -->
+
 
 ### Data Preparation
 
