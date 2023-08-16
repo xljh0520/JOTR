@@ -102,7 +102,7 @@ TODO
 
 ## Acknowledgments
 
-Thanks to [3DCrowdNet](https://github.com/hongsukchoi/3DCrowdNet_RELEASE), [DETR](https://github.com/facebookresearch/detr), [deep_training](https://github.com/ssbuild/deep_training) and [PositionalEncoding2D](https://github.com/wzlxjtu/PositionalEncoding2Dl), our code is partially borrowing from them.
+Thanks to [3DCrowdNet](https://github.com/hongsukchoi/3DCrowdNet_RELEASE), [DETR](https://github.com/facebookresearch/detr), [AutomaticWeightedLoss](https://github.com/Mikoto10032/AutomaticWeightedLoss), [deep_training](https://github.com/ssbuild/deep_training) and [PositionalEncoding2D](https://github.com/wzlxjtu/PositionalEncoding2Dl), our code is partially borrowing from them.
 
 
 ## License
