@@ -113,3 +113,12 @@ This code is distributed under an [MIT LICENSE](LICENSE).
 
 Note that our code depends on other libraries, including SMPL, VPoser, and uses datasets that have their own licenses. Please refer to the corresponding websites for more details.
 
+## Citation
+```
+@article{li2023jotr,
+  title={JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery},
+  author={Li, Jiahao and Yang, Zongxin and Wang, Xiaohan and Ma, Jianxin and Zhou, Chang and Yang, Yi},
+  journal={ICCV},
+  year={2023}
+}
+```
