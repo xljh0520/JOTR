@@ -1,5 +1,5 @@
-trainset_3d: ['Human36M']
-trainset_2d: ['CrowdPose']
+trainset_3d: ['Human36M', "MuCo"]
+trainset_2d: ['CrowdPose', "MSCOCO"]
 
 
 
